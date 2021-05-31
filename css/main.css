@@ -49,8 +49,9 @@
 }
 
 html {
-  font-family: "Spartan", Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Spartan";
   font-size: 32px;
+  font-weight: 700;
 }
 
 html[data-theme="1"] {
