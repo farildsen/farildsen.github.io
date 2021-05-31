@@ -205,9 +205,6 @@ header a {
  }
 
 
-
-
-
 .calc-keypad {
   border-radius: 0.5rem;
   grid-column: 2 / 3;
@@ -232,6 +229,7 @@ header a {
   background: var(--clr-primary-key-bg);
   border-radius: 0.4rem;
   padding-top: 0.2rem;
+  font-family: "Spartan";
   font-size: 1.4em;
   font-weight: 700;
   color: var(--clr-primary-text);
