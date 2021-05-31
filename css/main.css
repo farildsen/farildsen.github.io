@@ -2,6 +2,7 @@
 @font-face {
   font-family: "Spartan";
   src: url(../fonts/Spartan-VariableFont_wght.ttf);
+  font-weight: 700;
 }
 
 :root {
