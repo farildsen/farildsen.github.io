@@ -48,11 +48,11 @@
   border: 0;
 }
 
-/* html {
+html {
   font-family: "Spartan";
   font-size: 32px;
   font-weight: 700;
-} */
+} 
 
 html[data-theme="1"] {
   background: var(--clr-fiord);
@@ -135,7 +135,6 @@ body {
   padding: 0;
   user-select: none;
   font-family: "Spartan";
-  font-size: 32px;
   font-weight: 700;
 }
 
